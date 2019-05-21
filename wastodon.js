@@ -48,7 +48,7 @@ function createSLine() {
         <a class="S_txt2">
             <span>
                 <em class="W_ficon ficon_forward S_ficon"></em>
-                <em>转推CMX</em>
+                <em>转推猫站</em>
             </span>
         </a>
     </span>`;
